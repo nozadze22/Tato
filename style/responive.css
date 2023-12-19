@@ -1,0 +1,727 @@
+@media screen and (max-width: 940px) {
+   .inkvest div.vid div.numword {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        
+
+    }
+    .inkvest div.vid div.numword .thrid {
+        margin-left: 2px;
+    }
+    
+    .inkvest div.vid div.numword .fourthh {
+        margin-left: 60px;
+    }
+    .inkvest div.vid div.numword .two {
+        margin-left: 1px;
+    }
+
+    .inkvest .forinicials {
+       margin-top: 100px;
+    }
+    .inkvest .tofinish .forimages  {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .inkvest .tofinish .footer {
+        display: grid;
+        grid-template-columns: 1fr;
+
+    }
+    .inkvest .tofinish .footer .firstd {
+        margin: auto;
+        
+    }
+    .inkvest .tofinish .footer .firstd h3{
+        font-size: 30px;
+    }
+    .inkvest .tofinish .footer .firstd h4 {
+        font-size: 15px;
+         font-weight: 900;
+    }
+    .inkvest .tofinish .footer .firstd h5 {
+        font-size: 15px;
+        font-weight: 900;
+    }
+    .inkvest .tofinish .footer .secondd {
+        margin: auto;
+    }
+
+    .inkvest .tofinish .footer .secondd h3 {
+        font-size: 30px;
+
+    }
+    .inkvest .tofinish .footer .secondd h5 {
+        font-size: 15px;
+        font-weight: 900;
+    }
+    .inkvest .tofinish .footer .secondd .forbutoon{
+    margin-top: 30px;
+    } 
+    .inkvest .tofinish .footer .secondd .forbutoon h3 {
+        font-size: 15px;
+    }
+    .inkvest .tofinish .footer .three {
+        margin: auto;
+    }
+    .inkvest .tofinish .footer .three h3 {
+        font-size: 25px;
+        padding-top: 20px;
+        margin-left: 50px;
+    }
+    .inkvest .tofinish .footer .three h5 {
+        font-size: 15px;
+        
+    }
+}
+
+
+
+@media screen and (max-width: 600px) {
+
+    .inkvest .tofinish .secondarticle h6 {
+        width: auto;
+        font-size: 13px;
+        text-align: center;
+
+    }
+    .inkvest .tofinish .secondarticle h1 {
+        width: auto;
+        text-align: center;
+    }
+    .inkvest .tofinish .undertext h6  {
+        width: auto;
+        text-align: center;
+    }
+    @media screen and (max-width: 550px) {
+        .inkvest .tofinish .forimages {
+            display: grid;
+            grid-template-columns: 1fr;
+        }
+        .inkvest div.vid div.numword {
+            display: grid;
+            grid-template-columns: 1fr;
+        }
+        .vid .numword .one {
+            height: auto;
+        }
+
+        .vid .numword .one h4 {
+            font-size: 50px;
+            
+        }
+        .vid .numword .one h3 {
+            font-size: 15px;
+            margin-top: -20px;
+        }
+        .vid .numword .one .line {
+        height: 80px;
+        margin-top: -50px;
+        }
+        .vid .numword .two {
+            height: 100px;
+            padding-top: 30px;
+        }
+
+        
+        .vid .numword .two h4 {
+            font-size: 50px;
+        }
+        .vid .numword .two h3 {
+            font-size: 15px;
+            padding-left: 140px;
+        }
+        .vid .numword .two .linetwo {
+        height: 100px;
+        
+        margin-top: -50px;
+        }
+
+
+        .vid .numword .thrid{
+            height: 100px;
+        }
+
+        .vid .numword .thrid h4 {
+            font-size: 50px;
+            
+        }
+        .vid .numword .thrid h3 {
+            font-size: 15px;
+            margin-top: -20px;
+        }
+        .vid .numword .thrid .line {
+        height: 80px;
+        margin-top: -50px;
+        }
+
+
+        .vid .numword .fourthh{
+            height: 100px;
+            width: 100%;
+            margin-left: 0px !important;
+        }
+
+        .vid .numword .fourthh h4 {
+            font-size: 50px;
+            
+        }
+        .vid .numword .fourthh h3 {
+            font-size: 14px;
+            height: 40px;
+            text-align: start;
+            padding-left: 160px;
+        }
+        .vid .numword .fourthh .line {
+        height: 80px;
+        margin-top: -50px;
+        }
+
+        .vid .ticket2  {
+            padding-top: 100px;
+        }
+
+        .ban h4 {
+            display: inline-block;
+            padding-top: 100px;
+            
+        }
+        .ban h1 {
+            text-align: center;
+            font-size: 20px;
+        }
+
+    }
+    
+    @media screen and (max-width: 1000px) {
+        .inkvest .sword svg {
+            margin-right: 0px;
+        }
+
+        .inkvest .inkfest h1 {
+            margin: auto;
+        }
+        .inkvest .second {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+
+        @media screen and (max-width: 600px) {
+            .inkvest .second svg {
+                margin-left: 100px;
+            }
+            .inkvest .last h2 {
+                margin-right: 0px;
+            }
+            .inkvest .date h5 {
+                margin-right: 0px;
+            }
+            .inkvest .ticket   {
+                padding-right: 0px;
+            }
+
+            .tofinish .forimages {
+                padding: 0px 0px 0px 0px;
+            }
+            .ban {
+                padding: 0px 10px 0px 10px;
+            }
+            .vid h1 {
+                padding: 0px 15px 0px 15px;
+            }
+        }
+        @media screen and (max-width: 364px) {
+            .ban .date2  {
+                padding-top: 0px;
+            }
+        }
+    }
+
+   
+}
+
+
+
+/* second */
+
+@media screen and (max-width: 1020px) {
+    .artists .forpics p {
+        width: 350px;
+    }
+
+    
+    .artists .forpics .overlay {
+        display: grid;
+         grid-template-columns: repeat(2, 3fr);
+    }
+
+    @media screen and (max-width: 900px)  {
+        .artists .forbanner .textures h1  {
+                 max-width: 300px;
+                 margin-left: 50px;
+                 font-size: 20px;
+        }
+        .artists .forbanner .textures {
+            width: auto;
+        }
+        .artists .forbanner .textures h6 {
+            max-width: 300px;
+        }
+    }
+    
+}
+
+@media screen and (max-width: 750px) {
+
+    
+    .artists  .footer {
+        display: grid;
+        grid-template-columns: 1fr;
+
+    }
+    .artists .footer .firstd {
+        margin: auto;
+        
+    }
+    .artists .footer .firstd h3{
+        font-size: 30px;
+    }
+    .artists .footer .firstd h4 {
+        font-size: 15px;
+         font-weight: 900;
+    }
+    .artists .footer .firstd h5 {
+        font-size: 15px;
+        font-weight: 900;
+    }
+    .artists .footer .secondd {
+        margin: auto;
+    }
+
+    .artists .footer .secondd h3 {
+        font-size: 30px;
+
+    }
+    .artists .footer .secondd h5 {
+        font-size: 15px;
+        font-weight: 900;
+    }
+    .artists .footer .secondd .forbutoon{
+    margin-top: 30px;
+    } 
+    .artists .footer .secondd .forbutoon h3 {
+        font-size: 15px;
+    }
+    .artists .footer .three {
+        margin: auto;
+    }
+    .artists .footer .three h3 {
+        font-size: 25px;
+        padding-top: 20px;
+        margin-left: 50px;
+    }
+    .artists  .footer .three h5 {
+        font-size: 15px;
+        
+    }
+}
+
+
+
+@media screen and (max-width: 720px) {
+    .artists .forpics  {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .artists .forpics p {
+        width: 300px;
+    }
+
+ 
+
+    .artists .forpics .overlay {
+        display: grid;
+         grid-template-columns: 1fr;
+         
+    }
+   
+    .artists .forpics .overlay {
+        width: 300px;
+        margin: auto;
+    }
+
+
+    @media screen and (max-width: 450px) {
+
+        .artists .footer .three h3 {
+            margin-left: 0px;
+        }
+        .artists .forpics .overlay {
+            width: auto;
+        }
+      
+        .artists .forbanner .textures h1 {
+            max-width: 100px;
+            margin-left: 0px;
+            font-size: 15px;
+        }
+    }
+
+    @media screen and (max-width: 620px) {
+        .artists .forbanner .textures h6 {
+            max-width: 220px;
+            text-align: start;
+        }
+    }
+    @media screen and (max-width: 475px) {
+        .artists .forbanner .textures h6 {
+            display: none;
+        }
+    }
+
+    @media screen and (max-width: 370px) {
+        .artists .forpics p {
+            width: auto;
+            height: auto;
+        }
+    }
+    @media screen and (max-width: 555px) {
+        footer .foo {
+            height: 0px;
+        }
+    }
+}
+
+/* thrid */
+@media screen and (max-width: 1000px){
+    .info .pics {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    @media screen and (max-width: 800px) {
+    .info .footer {
+        display: grid;
+        grid-template-columns: 1fr;
+
+    }
+    .info .footer .firstd {
+        margin: auto;
+        
+    }
+    .info .footer .firstd h3{
+        font-size: 30px;
+    }
+    .info .footer .firstd h4 {
+        font-size: 15px;
+         font-weight: 900;
+    }
+    .info .footer .firstd h5 {
+        font-size: 15px;
+        font-weight: 900;
+    }
+    .info .footer .secondd {
+        margin: auto;
+    }
+
+    .info .footer .secondd h3 {
+        font-size: 30px;
+
+    }
+    .info .footer .secondd h5 {
+        font-size: 15px;
+        font-weight: 900;
+    }
+    .info .footer .secondd .forbutoon{
+    margin-top: 30px;
+    } 
+    .info .footer .secondd .forbutoon h3 {
+        font-size: 15px;
+    }
+    .info .footer .three {
+        margin: auto;
+    }
+    .info .footer .three h3 {
+        font-size: 25px;
+        padding-top: 20px;
+        margin-left: 50px;
+    }
+    .info .footer .three h5 {
+        font-size: 15px;
+    }
+    .forbut .fore {
+        display: flex;
+        margin: auto;
+    }
+    .forbut a h2 {
+        margin: auto;
+    }
+}
+@media screen and (max-width: 890px) {
+
+    .info .bann .forarticle {
+        width: auto;
+            }
+    .info .bann .forarticle h6 {
+        width: auto;
+        height: auto;
+
+    }
+}
+@media screen and (max-width: 600px) {
+
+    .info .midle {
+        padding: 0px;
+    }
+    .info .pics {
+        display: grid;
+        grid-template-columns: 1fr;
+        
+    }
+    .info .pics div {
+        margin: 0 auto;
+    }
+    .info .midle .faq h5 {
+        width: auto;
+        font-size: 10px;
+        height: auto;
+    }
+    .info .midle .general  {
+        padding: 0px 10px 0px 10px;
+    }
+}
+@media screen and (max-width: 440px) {
+    .info .midle .general h2 {
+        font-size: 10px;
+    }
+    .info .midle .general .gandf h3 {
+        font-size: 10px;
+    }
+    .info .midle .general .sectio {
+        height: auto;
+    }
+    .info .midle .general .sectio h1 {
+        font-size: 12px;
+    }
+    .info .midle .general .addfaq h1 {
+        font-size: 12px;
+    }
+  
+}
+
+@media screen and (max-width: 325px) {
+
+} .info .bann .forarticle h6 {
+    font-size: 10px;
+}
+
+@media screen and (max-width: 355px) {
+    .info .bann .icinials {
+        height: auto;
+         display: grid;
+         grid-template-columns: 1fr;
+         
+    }
+    .info .bann .icinials svg {
+        margin: auto;
+        margin-top: 7px;
+    }
+}
+@media screen and (max-width: 315px) {
+    .info .pics div h6 {
+        font-size: 10px;
+    }
+    .info .pics {
+        padding: 10px;
+    }
+}
+}
+
+
+/*  meoxte */
+
+
+@media screen and (max-width: 800px) {
+    .footer {
+        display: grid;
+        grid-template-columns: 1fr;
+
+    }
+     .footer .firstd {
+        margin: auto;
+        
+    }
+     .footer .firstd h3{
+        font-size: 30px;
+    }
+     .footer .firstd h4 {
+        font-size: 15px;
+         font-weight: 900;
+    }
+     .footer .firstd h5 {
+        font-size: 15px;
+        font-weight: 900;
+    }
+     .footer .secondd {
+        margin: auto;
+    }
+
+    .footer .secondd h3 {
+        font-size: 30px;
+
+    }
+     .footer .secondd h5 {
+        font-size: 15px;
+        font-weight: 900;
+    }
+     .footer .secondd .forbutoon{
+    margin-top: 30px;
+    } 
+     .footer .secondd .forbutoon h3 {
+        font-size: 15px;
+    }
+     .footer .three {
+        margin: auto;
+    }
+     .footer .three h3 {
+        font-size: 25px;
+        padding-top: 20px;
+        margin-left: 50px;
+    }
+     .footer .three h5 {
+        font-size: 15px;
+    }
+    .forbut .fore {
+        display: flex;
+        margin: auto;
+    }
+    .forbut a h2 {
+        margin: auto;
+    }
+
+
+}
+
+@media screen and (max-width: 910px) {
+    .checkout .forchek {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .checkout .forchek .fottit  {
+        padding-top: 40px;
+    }
+    .checkout .forchek .forprice {
+        padding-top: 60px;
+    }
+    .checkout .forchek .checkoutt {
+        padding-top: 50px;
+    }
+}
+
+@media screen and (max-width: 630px) {
+    .checkout .forchek {
+        padding: 100px 0px 100px 0px;
+
+    }
+    .checkout .forchek .fottit {
+        margin: auto;
+        
+    }
+    .checkout .forchek .forprice {
+        margin: auto;
+    }
+    .checkout .forchek .checkoutt {
+        margin: auto;
+        margin-top: 30px;
+    }
+    
+   .checkout .venue {
+        padding: 0px  100px 0px 100px;
+    }
+
+    @media screen and (max-width: 630px) {
+        .checkout .venue {
+            padding: 0px 50px 0px 50px;
+        }
+    }
+    @media screen and (max-width: 410px) {
+        .checkout .share {
+            padding: 0px;
+        }
+    }
+    @media screen and (max-width: 315px) {
+        .checkout .venue {
+            padding: 0px  10px 0px 10px;
+        }
+    }
+}
+
+
+/* forth */
+
+@media screen and (max-width: 815px) {
+    .SCHEDULEe .ink  {
+        padding: 0px 100px 0px 100px;
+    }
+    .SCHEDULEe .allPlace {
+        padding: 0px 100px 0px 100px;
+    }
+
+
+
+    @media screen and (max-width: 615px) {
+        .SCHEDULEe .forDivs .filters  {
+            width: auto;
+        }
+        .SCHEDULEe .ink h6 {
+            font-weight: 700;
+        }
+
+}
+@media screen and (max-width: 495px) {
+    .SCHEDULEe .allPlace  {
+        padding: 0px 40px 0px 40px;
+    }
+}
+.SCHEDULEe .allPlace .list {
+    display: grid;
+    height: auto;
+    width: auto;
+}
+.SCHEDULEe .ink  {
+    padding: 0px 40px 0px 40px;
+}
+ 
+}
+
+
+@media screen and (max-width: 950px) {
+    .creat .forpaswword {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .creat .forpaswword .check {
+        margin: auto;
+        
+    }
+    .creat .forpaswword .Email {
+        margin: auto;
+        
+    }
+
+    @media screen and (max-width: 670px) {
+        .creat .forpaswword {
+            padding: 0px 50px 0px 50px;
+        }
+    }
+    @media screen and (max-width: 385px) {
+        .creat .forpaswword {
+            padding: 0px;
+        }
+    }
+}

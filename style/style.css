@@ -1,0 +1,1979 @@
+html {
+  margin: 0px;
+  height: 0px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0px;
+  height: 0px;
+}
+
+header .navbar-text,
+header .navbar-brand .nav-links {
+  height: 5px;
+}
+header ul li a {
+  font-weight: 100;
+}
+header ul li a h5 {
+  font-size: 13px;
+  color: white;
+  padding-top: 10px;
+}
+header ul li a h5:hover {
+  transition: 1s ease;
+  color: grey;
+}
+header ul li a i {
+  font-size: 15px;
+  padding: 10px;
+  color: white;
+  font-size: 14px;
+}
+
+.inkvest {
+  width: 100%;
+  height: auto;
+}
+
+.inkvest {
+  width: 100%;
+  height: auto;
+  background-color: black;
+  width: 100%;
+  top: 0;
+  right: 0;
+  background-image: url("https://static.wixstatic.com/media/84770f_3031fb54d7e649e0a700e85e72c9e447~mv2_d_3887_2666_s_4_2.jpg/v1/fill/w_980,h_816,al_bl,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_3031fb54d7e649e0a700e85e72c9e447~mv2_d_3887_2666_s_4_2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  position: absolute;
+  object-fit: cover;
+}
+.inkvest .sword {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inkvest .sword svg {
+  width: 300px;
+  height: 200px;
+  margin-top: 80px;
+  margin-right: 150px;
+  fill: black;
+}
+.inkvest .inkfest {
+  width: 100%;
+  height: 200px;
+  margin-right: 200px;
+}
+.inkvest .inkfest h1 {
+  margin-right: 150px;
+  margin-top: -30px;
+}
+.inkvest .second {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  margin-top: -70px;
+  padding-right: 120px;
+}
+.inkvest .second svg {
+  width: 200px;
+  height: 200px;
+  fill: black;
+}
+.inkvest .last {
+  width: 100%;
+  height: 100px;
+}
+.inkvest .last h2 {
+  font-size: 17px;
+  font-family: "Oswald", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 150px;
+  letter-spacing: 20px;
+  margin-top: -40px;
+}
+.inkvest .date {
+  width: 100%;
+  height: 100px;
+}
+.inkvest .date h5 {
+  font-size: 14px;
+  font-family: "Oswald", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 160px;
+  font-weight: 50px;
+  letter-spacing: 1px;
+  padding-top: 20px;
+}
+.inkvest .ticket {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  padding-right: 150px;
+}
+.inkvest .ticket a {
+  width: 150px;
+  height: 40px;
+  color: white;
+  background-color: black;
+  text-decoration: none;
+  margin-top: 30px;
+  font-family: "Oswald", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inkvest .ticket a:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.ban {
+  width: 100%;
+  height: 600px;
+  background-image: url("https://static.wixstatic.com/media/0b340f_2b9d3912c9294dc781d5e63b85433f2f~mv2_d_2896_1540_s_2.jpg/v1/fill/w_980,h_611,al_b,q_85,usm_0.66_1.00_0.01,enc_auto/0b340f_2b9d3912c9294dc781d5e63b85433f2f~mv2_d_2896_1540_s_2.jpg");
+  margin-top: 300px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-left: 70px;
+  box-sizing: border-box;
+  object-fit: cover;
+}
+.ban .inicials {
+  width: 100%;
+  height: 20px;
+  display: inline-block;
+}
+.ban .inicials svg.dot {
+  width: 13px;
+  height: 8px;
+}
+.ban .inicials svg {
+  width: 27px;
+  height: 22px;
+  fill: white;
+  border-radius: 8px;
+  margin-top: 70px;
+  padding-left: 5px;
+}
+.ban h1 {
+  width: 100%;
+  height: 100px;
+  color: white;
+  padding-top: 100px;
+  letter-spacing: 15px;
+  font-size: 27px;
+  font-weight: 800;
+}
+.ban h4 {
+  width: 100%;
+  max-width: 500px;
+  color: white;
+  padding-top: 70px;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.ban .date2 {
+  width: 100%;
+  height: 200px;
+  box-sizing: border-box;
+  padding-top: 70px;
+}
+.ban .date2 h2 {
+  width: 100%;
+  color: white;
+  font-size: 17px;
+  font-weight: 800;
+}
+.ban .date2 a {
+  width: 200px;
+  height: 40px;
+  color: black;
+  background-color: white;
+  text-decoration: none;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 800;
+  font-size: 14px;
+}
+.ban .date2 a:hover {
+  background-color: gray;
+}
+
+.vid {
+  width: 100%;
+  height: 550px;
+}
+.vid video {
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  position: absolute;
+  object-fit: cover;
+  background-attachment: fixed;
+}
+.vid h1 {
+  position: relative;
+  padding-left: 70px;
+}
+.vid h1 .dots {
+  width: 35px;
+  height: 20px;
+}
+.vid h1 .dot {
+  width: 11px;
+  height: 8px;
+}
+.vid h1 svg {
+  width: 30px;
+  height: 20px;
+  fill: white;
+}
+.vid .article {
+  width: 100%;
+  padding-top: 20px;
+}
+.vid .article h2 {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1rem;
+  font-weight: 700;
+}
+.vid .numword {
+  width: 100%;
+  height: 300px;
+  box-sizing: border-box;
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.vid .numword .one {
+  max-width: 70px;
+  height: 150px;
+}
+.vid .numword h4 {
+  max-width: 50px;
+  height: 30px;
+  font-size: 100px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 1000;
+  padding-top: 10px;
+}
+.vid .numword h4 .line {
+  width: 1px;
+  height: 150px;
+  background-color: white;
+  display: block;
+  margin-left: 60px;
+  margin-top: -90px;
+}
+.vid .numword h3 {
+  width: 30px;
+  height: 30px;
+  color: white;
+  writing-mode: vertical-rl;
+  font-size: 20px;
+  padding-left: 90px;
+  box-sizing: bor;
+}
+.vid .two {
+  width: 70px;
+  height: 150px;
+  margin-left: -100px;
+}
+.vid .two h3 {
+  width: 50px;
+  height: 100px;
+  padding-left: 200px;
+}
+.vid .two .linetwo {
+  width: 1px;
+  height: 120px;
+  background-color: white;
+  display: block;
+  margin-left: 160px;
+  margin-top: -90px;
+}
+.vid .thrid {
+  width: 70px;
+  height: 150px;
+  margin-left: -70px;
+}
+.vid .thrid h3 {
+  width: 50px;
+  height: 100px;
+  padding-left: 100px;
+}
+.vid .thrid h3 h4 line {
+  width: 1px;
+  height: 120px;
+  background-color: white;
+  display: block;
+}
+.vid .fourthh {
+  width: 70px;
+  height: 150px;
+  margin-left: -150px;
+}
+.vid .fourthh h3 {
+  width: 50px;
+  height: 150px;
+  padding-left: 140px;
+}
+.vid .fourthh h3 .line {
+  width: 1px;
+  height: 10px;
+  background-color: white;
+  display: block;
+}
+.vid .ticket2 {
+  width: 100%;
+  height: 100px;
+}
+.vid .ticket2 a {
+  width: 100px;
+  height: 50px;
+  text-decoration: none;
+  color: black;
+}
+.vid .ticket2 a h5 {
+  width: 140px;
+  height: 40px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Oswald", sans-serif;
+  font-size: 17px;
+}
+.vid .ticket2 a h5:hover {
+  background-color: gray;
+}
+
+.carousel {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.carousel .slide {
+  max-width: 800px;
+  height: 400px;
+  margin-top: 200px;
+}
+.carousel .slide .carousel-item {
+  height: 400px;
+}
+.carousel .slide .carousel-innrer {
+  height: 400px;
+}
+.carousel .slide .carousel .slide .carousel-item {
+  height: 400px;
+}
+.carousel .slide .w-100 {
+  height: 400px;
+  object-fit: cover;
+}
+
+.tofinish {
+  width: 100%;
+  height: auto;
+  background-color: rgb(0, 0, 0);
+  padding: 0px 70px 0px 70px;
+  box-sizing: border-box;
+  padding-top: 50px;
+}
+.tofinish .ainicials {
+  width: 100%;
+  height: 50px;
+}
+.tofinish .ainicials .laststar {
+  width: 30px;
+  height: 25px;
+}
+.tofinish .ainicials .fivedot {
+  width: 35px;
+  height: 25px;
+}
+.tofinish .ainicials .starss {
+  width: 40px;
+  height: 30px;
+}
+.tofinish .ainicials svg {
+  width: 25px;
+  height: 15px;
+  fill: white;
+  margin: 5px;
+}
+.tofinish .secondarticle {
+  width: 100%;
+  max-width: 600px;
+  height: 200px;
+  padding-top: 20px;
+}
+.tofinish .secondarticle h1 {
+  font-size: 26px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  letter-spacing: 1rem;
+  font-weight: 800;
+}
+.tofinish .secondarticle h6 {
+  width: 500px;
+  color: white;
+  padding-left: 10px;
+  font-size: 16px;
+  line-break: anywhere;
+  line-height: 1.5rem;
+}
+.tofinish .spaan {
+  width: 100%;
+  height: 1px;
+  display: block;
+  background-color: white;
+  padding: 0px 0px 0px 70px;
+  margin-top: 100px;
+}
+.tofinish .svgg {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 70px 0px 70px;
+}
+.tofinish .svgg .STAR {
+  width: 30px;
+  height: 20px;
+}
+.tofinish .svgg .DOT {
+  width: 12px;
+  height: 7px;
+}
+.tofinish .svgg svg {
+  width: 25px;
+  height: 15px;
+  fill: white;
+  margin: 7px;
+}
+.tofinish .undertext {
+  width: 100%;
+  height: 100px;
+  padding-top: 50px;
+  box-sizing: border-box;
+}
+.tofinish .undertext h1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1rem;
+  font-weight: bold;
+}
+.tofinish .undertext h6 {
+  width: 500px;
+  height: 40px;
+  margin: auto;
+  color: white;
+  text-align: center;
+  line-height: 1.6em;
+  font-size: 16px;
+  font-weight: bold;
+}
+.tofinish .forimages {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 0px 100px 0px 100px;
+  margin-top: 60px;
+}
+.tofinish .forinicals {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tofinish .forinicals .lotstar {
+  width: 30px;
+  height: 20px;
+}
+.tofinish .forinicals svg {
+  width: 25px;
+  height: 15px;
+  fill: white;
+  margin: 7px;
+}
+.tofinish .forhone {
+  width: 100%;
+  height: 30px;
+}
+.tofinish .forhone h1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  letter-spacing: 0.5em;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+.tofinish .forline {
+  width: 100%;
+  height: 1px;
+  display: block;
+  background-color: white;
+  margin-top: 40px;
+}
+.tofinish .footer {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: rgb(4, 4, 4);
+  margin-top: 30px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+.tofinish .footer h3 {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  padding-left: 5px;
+}
+.tofinish .footer h4 {
+  width: 235px;
+  max-width: 190px;
+  font-size: 16px;
+  text-align: center;
+  padding-top: 15px;
+  font-weight: 100;
+}
+.tofinish .footer h5 {
+  font-size: 13px;
+  font-weight: 200;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+.tofinish .footer .forsocials {
+  padding-top: 70px;
+}
+.tofinish .footer .forsocials a {
+  text-decoration: none;
+  color: white;
+}
+.tofinish .footer .forsocials a i {
+  padding: 15px;
+}
+.tofinish .footer .forsocials a:hover {
+  color: blue;
+  transition: 1s ease;
+}
+.tofinish .forinputs {
+  padding-top: 30px;
+}
+.tofinish .forinputs .fullname {
+  width: 100px;
+}
+.tofinish .forinputs .foremail {
+  width: 150px;
+}
+.tofinish .forinputs .lastof {
+  margin-top: 10px;
+  width: 255px;
+  outline: none;
+}
+.tofinish .forinputs input {
+  background-color: black;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid white;
+  color: white;
+  font-size: 10px;
+}
+.tofinish .forinputs input:hover {
+  border-color: rgb(49, 109, 249);
+  transition: 1s linear;
+}
+.tofinish .forinputs ::-webkit-input-placeholder {
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+}
+.tofinish .forinputs ::-webkit-placeholder-text {
+  color: white;
+}
+.tofinish .forbutoon {
+  margin-top: 90px;
+}
+.tofinish .forbutoon a {
+  color: black;
+  text-decoration: none;
+}
+.tofinish .forbutoon h3 {
+  width: 100px;
+  height: 37px;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+}
+.tofinish .forbutoon a:hover {
+  color: white;
+  background-color: black;
+  transition: 1s linear;
+}
+.tofinish .forbutoon h3:hover {
+  background-color: black;
+}
+.tofinish .forbut {
+  padding-top: 120px;
+}
+.tofinish .forbut .fore {
+  background-color: black;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid rgb(76, 60, 191);
+  width: 200px;
+  color: white;
+  font-size: 10px;
+}
+.tofinish .forbut ::-webkit-input-placeholder {
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+}
+.tofinish .forbut a {
+  margin-top: 30px;
+  text-decoration: none;
+  background-color: white;
+}
+.tofinish .forbut a h2 {
+  width: 200px;
+  height: 37px;
+  margin-top: 30px;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+.tofinish .forbut a h2:hover {
+  background-color: black;
+  color: white;
+  transition: 1s linear;
+}
+.tofinish .map {
+  width: 100%;
+  height: 450px;
+  margin-top: 50px;
+}
+.tofinish .map iframe {
+  width: 100%;
+}
+
+.foo {
+  width: 100%;
+  height: 20px;
+  background-color: rgb(0, 0, 0);
+  box-sizing: border-box;
+  padding-top: 0px !important;
+}
+.foo h6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 11px;
+  color: white;
+  font-weight: 400;
+  font-family: var("Roboto", sans-serif);
+}
+.foo .chatbox {
+  width: 100%;
+}
+.foo .chatbox i {
+  font-size: 50px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  color: white;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  cursor: pointer;
+}
+
+.artists {
+  width: 100%;
+  height: auto;
+  padding-top: 67px;
+  background-color: black;
+  box-sizing: border-box;
+}
+.artists .forbanner {
+  width: 100%;
+  padding: 0px 70px 0px 70px;
+}
+.artists .forbanner img {
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  left: 0;
+  object-fit: initial;
+  background-attachment: fixed;
+}
+.artists .forbanner .forinicilas {
+  width: 100%;
+  height: 100px;
+}
+.artists .forbanner .forinicilas svg {
+  margin-top: 50px;
+  width: 37px;
+  height: 29px;
+  position: absolute;
+  fill: black;
+}
+.artists .forbanner .forinicilas .st {
+  width: 30px;
+  height: 25px;
+  margin-left: 60px;
+}
+.artists .forbanner .textures {
+  width: 100%;
+  max-width: 700px;
+  position: absolute;
+}
+.artists .forbanner .textures h1 {
+  width: 100%;
+  max-width: 600px;
+  letter-spacing: 1rem;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+}
+.artists .forbanner .textures h6 {
+  width: 100%;
+  max-width: 470px;
+  line-break: anywhere;
+  padding-top: 100px;
+  box-sizing: border-box;
+  line-height: 30px;
+  text-align: center;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+}
+.artists .forpics {
+  width: 100%;
+  height: auto;
+  margin-top: 600px;
+  background-color: black;
+}
+.artists .forpics .overlay {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 4fr);
+  row-gap: 20px;
+}
+.artists .forpics .overlay .pictures {
+  background-image: url("https://static.wixstatic.com/media/0b340f_5a8b6071a3a94414ae0486692048e057~mv2_d_6720_4480_s_4_2.jpg/v1/fill/w_480,h_480,fp_0.69_0.33,q_90/0b340f_5a8b6071a3a94414ae0486692048e057~mv2_d_6720_4480_s_4_2.webp");
+  background-size: cover;
+  max-width: 247px;
+  height: 253px;
+}
+.artists .forpics .pictures1 {
+  background-image: url("https://static.wixstatic.com/media/0b340f_b05176dd138e4e5dab40ba891c4457d0~mv2_d_4480_6720_s_4_2.jpg/v1/fill/w_480,h_480,fp_0.51_0.53,q_90/0b340f_b05176dd138e4e5dab40ba891c4457d0~mv2_d_4480_6720_s_4_2.webp");
+  background-size: cover;
+  max-width: 247px;
+  height: 253px;
+}
+.artists .forpics .pictures2 {
+  background-image: url("https://static.wixstatic.com/media/0b340f_a3c7fc7e79ff49c29e11ee9044dd7922~mv2_d_6720_4480_s_4_2.jpg/v1/fill/w_480,h_480,fp_0.62_0.37,q_90/0b340f_a3c7fc7e79ff49c29e11ee9044dd7922~mv2_d_6720_4480_s_4_2.webp");
+  background-size: cover;
+  max-width: 247px;
+  height: 253px;
+}
+.artists .forpics .pictures3 {
+  background-image: url("https://static.wixstatic.com/media/0b340f_1e77eb82c1ea48198bc6c70483a59689~mv2_d_7320_4885_s_4_2.jpg/v1/fill/w_480,h_480,fp_0.53_0.43,q_90/0b340f_1e77eb82c1ea48198bc6c70483a59689~mv2_d_7320_4885_s_4_2.webp");
+  background-size: cover;
+  max-width: 247px;
+  height: 253px;
+}
+.artists .forpics .pictures4 {
+  background-image: url("https://static.wixstatic.com/media/0b340f_8e2aea8ededd4bc19bb0c4cd50630a93~mv2_d_6000_3992_s_4_2.jpg/v1/fill/w_230,h_230,fp_0.56_0.38,q_90/0b340f_8e2aea8ededd4bc19bb0c4cd50630a93~mv2_d_6000_3992_s_4_2.webp");
+  background-size: cover;
+  max-width: 247px;
+  height: 253px;
+}
+.artists .forpics .pictures5 {
+  background-image: url("https://static.wixstatic.com/media/0b340f_fc22170e0f6744f6a08860db9b896b1d~mv2_d_6046_4035_s_4_2.jpg/v1/fill/w_230,h_230,fp_0.59_0.37,q_90/0b340f_fc22170e0f6744f6a08860db9b896b1d~mv2_d_6046_4035_s_4_2.webp");
+  background-size: cover;
+  max-width: 247px;
+  height: 253px;
+}
+.artists .forpics .pictures6 {
+  background-image: url("https://static.wixstatic.com/media/0b340f_5127955563174161b6bd27446f0d6bde~mv2_d_5120_3413_s_4_2.jpg/v1/fill/w_230,h_230,fp_0.53_0.34,q_90/0b340f_5127955563174161b6bd27446f0d6bde~mv2_d_5120_3413_s_4_2.webp");
+  background-size: cover;
+  max-width: 247px;
+  height: 253px;
+}
+.artists .forpics .pictures7 {
+  background-image: url("https://static.wixstatic.com/media/0b340f_013b3806991847fca4e6b0d2f3873cbf~mv2_d_5724_3636_s_4_2.jpg/v1/fill/w_230,h_230,fp_0.64_0.51,q_90/0b340f_013b3806991847fca4e6b0d2f3873cbf~mv2_d_5724_3636_s_4_2.webp");
+  background-size: cover;
+  max-width: 247px;
+  height: 253px;
+}
+.artists .forpics .pictures8 {
+  background-image: url("https://static.wixstatic.com/media/0b340f_ccff4bcbd27e43acb7d7764133b9c546~mv2_d_2802_4203_s_4_2.jpg/v1/fill/w_230,h_230,fp_0.53_0.23,q_90/0b340f_ccff4bcbd27e43acb7d7764133b9c546~mv2_d_2802_4203_s_4_2.webp");
+  background-size: cover;
+  max-width: 247px;
+  height: 253px;
+}
+.artists .forpics h6 {
+  width: auto;
+  height: 253px;
+  color: red;
+  opacity: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: "Oswald", sans-serif;
+}
+.artists .forpics h6:hover {
+  color: black;
+  opacity: 1;
+  background-color: rgba(255, 255, 255, 0.7);
+  transition: 2s ease;
+  cursor: pointer;
+}
+.artists .forpics .pictures:hover {
+  background-color: rgba(0, 0, 0, 0.35);
+}
+
+.bet {
+  width: 100%;
+  height: 300px;
+  background-color: black;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+svg {
+  width: 100%;
+  max-width: 500px;
+  height: 300px;
+  fill: white;
+}
+
+.forrbut {
+  width: 100%;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.forrbut a {
+  text-decoration: none;
+}
+.forrbut a h1 {
+  width: 200px;
+  background-color: white;
+  color: black;
+  height: 40px;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+.forrbut a h1:hover {
+  background-color: gray;
+  transition: 1s ease;
+}
+
+.forinicals {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.forinicals .lotstar {
+  width: 30px;
+  height: 20px;
+}
+.forinicals svg {
+  width: 25px;
+  height: 15px;
+  fill: white;
+  margin: 7px;
+}
+
+.forhone {
+  width: 100%;
+  height: 30px;
+}
+.forhone h1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  letter-spacing: 0.5em;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+.forline {
+  width: 100%;
+  height: 1px;
+  display: block;
+  background-color: white;
+  margin-top: 40px;
+}
+
+.footer {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: rgb(4, 4, 4);
+  padding-top: 20px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+.footer h3 {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  padding-left: 5px;
+}
+.footer h4 {
+  width: 235px;
+  max-width: 190px;
+  font-size: 16px;
+  text-align: center;
+  padding-top: 15px;
+  font-weight: 100;
+}
+.footer h5 {
+  font-size: 13px;
+  font-weight: 200;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+.footer .forsocials {
+  padding-top: 70px;
+}
+.footer .forsocials a {
+  text-decoration: none;
+  color: white;
+}
+.footer .forsocials a i {
+  padding: 15px;
+}
+.footer .forsocials a:hover {
+  color: blue;
+  transition: 1s ease;
+}
+
+.forinputs {
+  padding-top: 30px;
+}
+.forinputs .fullname {
+  width: 100px;
+}
+.forinputs .foremail {
+  width: 150px;
+}
+.forinputs .lastof {
+  margin-top: 10px;
+  width: 255px;
+  outline: none;
+}
+.forinputs input {
+  background-color: black;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid white;
+  color: white;
+  font-size: 10px;
+}
+.forinputs input:hover {
+  border-color: rgb(49, 109, 249);
+  transition: 1s linear;
+}
+.forinputs ::-webkit-input-placeholder {
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+}
+.forinputs ::-webkit-placeholder-text {
+  color: white;
+}
+
+.forbutoon {
+  margin-top: 70px;
+}
+.forbutoon a {
+  color: black;
+  text-decoration: none;
+}
+.forbutoon h3 {
+  width: 100px;
+  height: 37px;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+.forbutoon a:hover {
+  color: white;
+  background-color: black;
+  transition: 1s linear;
+}
+.forbutoon h3:hover {
+  background-color: black;
+}
+
+.forbut {
+  padding-top: 120px;
+}
+.forbut .fore {
+  background-color: black;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid white;
+  width: 200px;
+  color: white;
+  font-size: 10px;
+}
+.forbut ::-webkit-input-placeholder {
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+}
+.forbut a {
+  margin-top: 30px;
+  text-decoration: none;
+  background-color: white;
+}
+.forbut a h2 {
+  width: 200px;
+  height: 37px;
+  margin-top: 30px;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+.forbut a h2:hover {
+  background-color: black;
+  color: white;
+  transition: 1s linear;
+}
+
+.map {
+  width: 100%;
+  height: 400px;
+  margin-top: 50px;
+}
+.map iframe {
+  width: 100%;
+}
+
+footer {
+  padding-top: 90px;
+  width: 100%;
+  height: 20px;
+  background-color: rgb(0, 0, 0);
+  box-sizing: border-box;
+}
+footer .foo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 11px;
+  color: white;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  margin-top: -20px;
+}
+footer .chatbox {
+  max-width: 100% !important;
+}
+footer .chatbox i {
+  width: 100%;
+  bottom: 0;
+  height: 0px;
+  color: white;
+  font-size: 50px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  cursor: pointer;
+}
+
+.info {
+  width: 100%;
+  height: auto;
+  padding-top: 65px;
+  background-color: black;
+}
+.info .bann {
+  width: 100%;
+  height: 600px;
+  background-image: url("https://static.wixstatic.com/media/0b340f_10a0ddf017bc4ee4b8f304495d859f5d~mv2_d_6561_2826_s_4_2.jpg/v1/fill/w_980,h_715,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/0b340f_10a0ddf017bc4ee4b8f304495d859f5d~mv2_d_6561_2826_s_4_2.jpg");
+  background-size: cover;
+  padding: 0px 70px 0px 70px;
+  padding-top: 70px;
+}
+.info .bann .icinials {
+  width: 100%;
+  height: 100px;
+}
+.info .bann .icinials svg {
+  width: 33px;
+  height: 25px;
+  position: relative;
+  fill: black;
+  margin: 7px;
+}
+.info .bann .icinials .dots {
+  width: 28px;
+  height: 20px;
+}
+.info .bann .icinials .sta {
+  width: 20px;
+  height: 15px;
+}
+.info .bann .forarticle {
+  width: 100%;
+  max-width: 500px;
+  height: 170px;
+}
+.info .bann .forarticle h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  letter-spacing: 15px;
+  font-size: 28px;
+}
+.info .bann .forarticle h6 {
+  width: 500px;
+  line-height: 1.5rem;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 200;
+  height: 150px;
+  padding-top: 20px;
+}
+.info .pics {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 0px 70px 0px 70px;
+  background-color: black;
+}
+.info .pics div {
+  width: 226px;
+}
+.info .pics div svg {
+  width: 226px;
+  height: 150px;
+  fill: white;
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+.info .pics div h1 {
+  width: 100%;
+  font-size: 28px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+.info .pics div h6 {
+  width: 100%;
+  font-size: 15px;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  font-weight: 200;
+}
+.info .fortick {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+.info .fortick a {
+  width: 100%;
+  height: 100px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.info .fortick a h3 {
+  width: 130px;
+  height: 40px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 900;
+}
+.info .fortick a h3:hover {
+  background-color: grey;
+}
+.info .li {
+  width: 100%;
+  height: 1px;
+  display: block;
+  background-color: white;
+  margin: auto;
+}
+.info .midle {
+  width: 100%;
+  height: auto;
+  padding: 0px 70px 0px 70px;
+  background-color: black;
+  padding-top: 20px;
+}
+.info .midle .forini {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.info .midle .forini svg {
+  width: 30px;
+  height: 25px;
+  margin: 7px;
+}
+.info .midle .forini .dot {
+  width: 10px;
+  height: 7px;
+}
+.info .midle .faq {
+  width: 100%;
+  color: white;
+}
+.info .midle .faq h1 {
+  width: 100%;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.info .midle .faq h5 {
+  width: 450px;
+  height: 100px;
+  margin: auto;
+  font-size: 14px;
+  height: 100px;
+  text-align: center;
+  padding-top: 20px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5rem;
+}
+.info .midle .general {
+  width: 100%;
+  height: auto;
+  padding-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr;
+  font-family: "Open Sans", sans-serif;
+}
+.info .midle .general h2 {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 19px;
+  color: white;
+  font-family: "Oswald", sans-serif;
+}
+.info .midle .general a {
+  width: 100%;
+  height: 30px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  text-decoration: none;
+  margin-top: -40px;
+}
+.info .midle .general a i {
+  color: rgb(162, 155, 155);
+  cursor: pointer;
+}
+.info .midle .general .gandf {
+  width: 100%;
+  height: auto;
+}
+.info .midle .general .gandf h3 {
+  font-size: 13px;
+  color: white;
+  font-weight: bold;
+}
+.info .midle .general .gandf h4 {
+  font-size: 12px;
+  color: white;
+}
+.info .midle .general .sectio {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+.info .midle .general .sectio .fa-chevron-down {
+  color: rgb(162, 155, 155);
+  cursor: pointer;
+}
+.info .midle .general .sectio h1 {
+  font-size: 17px;
+  color: white;
+}
+.info .midle .general .sectio .fortitle {
+  width: 90%;
+  height: auto;
+  display: none;
+}
+.info .midle .general .sectio .fortitle h6 {
+  color: white;
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+}
+.info .midle .general .sectio .fortitle i {
+  color: white;
+  font-size: 10px;
+  cursor: pointer;
+}
+.info .midle .general .addfaq {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+.info .midle .general .addfaq h1 {
+  font-size: 17px;
+  color: white;
+}
+.info .midle .general .addfaq i {
+  color: rgb(162, 155, 155);
+  cursor: pointer;
+}
+.info .midle .general .addfaq .forsectitle {
+  width: 90%;
+  height: auto;
+  display: none;
+}
+.info .midle .general .addfaq .forsectitle h6 {
+  color: white;
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+}
+.info .midle .general .addfaq .forsectitle i {
+  color: white;
+  font-size: 10px;
+  cursor: pointer;
+}
+.info .midle .general .tic {
+  width: 100%;
+  height: 100px;
+}
+.info .midle .general .tic .sec {
+  width: 100%;
+  height: 100px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.info .midle .general .tic .sec h1 {
+  width: 150px;
+  height: 40px;
+  font-size: 13px;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.info .midle .general .tic .sec h1:hover {
+  background-color: gray;
+}
+.info .footer .chatbox {
+  max-width: 100% !important;
+}
+.info .footer .chatbox i {
+  width: 100%;
+  font-size: 50px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  color: black;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  cursor: pointer;
+}
+.info .foo {
+  background-color: black;
+}
+
+.checkout {
+  width: 100%;
+  height: auto;
+  padding-top: 65px;
+  background-color: black;
+}
+.checkout .inkv {
+  width: 100%;
+  height: 250px;
+  padding-top: 30px;
+}
+.checkout .inkv h4 {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 19px;
+  font-family: "Oswald", sans-serif;
+  color: white;
+}
+.checkout .inkv h1 {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: white;
+}
+.checkout .inkv a {
+  width: 100%;
+  height: 60px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.checkout .inkv a h3 {
+  width: 120px;
+  height: 40px;
+  color: black;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+.checkout .inkv a h3:hover {
+  background-color: grey;
+}
+.checkout .venue {
+  width: 100%;
+  height: auto;
+  background-color: white;
+  display: grid;
+  grid-template-columns: 1fr;
+  padding: 0px 200px 0px 200px;
+}
+.checkout .venue .ven {
+  width: 100%;
+  height: auto;
+  padding-top: 30px;
+}
+.checkout .venue .ven h1 {
+  font-size: 22px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+}
+.checkout .venue .ven p,
+.checkout .venue .ven h4 {
+  font-size: 13px;
+  font-family: "Open Sans", sans-serif;
+}
+.checkout .venue .ven h3 {
+  width: 100%;
+  max-width: 600px;
+  line-break: anywhere;
+  text-align: start;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+}
+.checkout .venue .ven h6 {
+  font-size: 10px;
+  margin-top: -20px;
+  color: rgba(156, 156, 156, 0.67);
+}
+.checkout .venue .ven .item {
+  width: 100%;
+  height: 100px;
+  background-color: white;
+  background-color: black;
+}
+.checkout .venue .ven .item a {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  text-decoration: none;
+  padding-right: 100px;
+}
+.checkout .venue .ven .item a h4 {
+  width: 120px;
+  height: 30px;
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  color: black;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.checkout .venue .ven .item a h4:hover {
+  color: grey;
+}
+.checkout .venue .line {
+  width: 100%;
+  margin-top: 20px;
+  height: 1px;
+  display: block;
+  background-color: gray;
+}
+.checkout .forchek {
+  width: 100%;
+  height: auto;
+  background-color: white;
+  padding-top: 100px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 0px 200px 0px 200px;
+}
+.checkout .forchek .fottit {
+  padding-top: 140px;
+  color: black;
+}
+.checkout .forchek .fottit h1 {
+  font-size: 19px;
+  font-family: "Roboto", sans-serif;
+}
+.checkout .forchek .fottit p,
+.checkout .forchek .fottit h4 {
+  font-size: 13px;
+  font-family: "Open Sans", sans-serif;
+}
+.checkout .forchek .fottit h4 {
+  font-size: 15px;
+}
+.checkout .forchek .forprice {
+  color: black;
+  font-family: "Roboto", sans-serif;
+  padding-top: 170px;
+}
+.checkout .forchek .forprice h6 {
+  font-size: 13px;
+}
+.checkout .forchek .forprice p {
+  font-size: 13px;
+  color: black;
+}
+.checkout .forchek .forprice .num {
+  font-size: 10px;
+  margin-top: -15px;
+}
+.checkout .forchek .checkoutt {
+  font-family: "Roboto", sans-serif;
+  padding-top: 150px;
+  margin-top: 50px;
+}
+.checkout .forchek .checkoutt h5 {
+  font-size: 13px;
+}
+.checkout .forchek .checkoutt h4 {
+  font-size: 13px;
+  margin-top: -23px;
+  padding-left: 120px;
+}
+.checkout .forchek .checkoutt h2 {
+  width: 170px;
+  height: 30px;
+  font-size: 17px;
+  color: rgb(139, 133, 133);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid;
+  border-radius: 8px;
+  cursor: not-allowed;
+}
+.checkout .forchek .checkoutt h2:hover {
+  color: rgb(219, 219, 219);
+}
+.checkout .forchek .checkoutt .co a {
+  font-size: 20px;
+  color: gray;
+  font-size: 10px;
+}
+.checkout .forchek .checkoutt .co a i {
+  cursor: pointer;
+  margin: 5px;
+}
+.checkout .forchek .checkoutt .co a h6 {
+  border: 1px solid steelblue;
+  margin-top: -20px;
+  margin-left: 50px;
+  color: black;
+  width: 50px;
+  height: 20px;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.checkout .share {
+  width: 100%;
+  height: 150px;
+  background-color: white;
+  padding: 0px 200px 0px 200px;
+}
+.checkout .share h1 {
+  font-size: 17px;
+  font-family: "Open Sans", sans-serif;
+  padding-top: 20px;
+  color: black;
+  font-weight: 900;
+}
+.checkout .share .icons {
+  width: 100%;
+  font-size: 13px;
+}
+.checkout .share .icons i {
+  margin: 5px;
+  color: black;
+}
+.checkout .chatbox {
+  max-width: 100% !important;
+}
+.checkout .chatbox i {
+  width: 100%;
+  font-size: 50px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  color: rgb(159, 142, 142);
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  cursor: pointer;
+}
+.checkout .foo {
+  background-color: black;
+}
+
+.SCHEDULEe {
+  width: 100%;
+  height: auto;
+  background-color: black;
+  padding-top: 65px;
+  color: white;
+}
+.SCHEDULEe .ink {
+  width: 100%;
+  height: auto;
+  padding-top: 20px;
+  padding: 0px 200px 0px 200px;
+}
+.SCHEDULEe .ink h6 {
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 200;
+}
+.SCHEDULEe .ink h1 {
+  font-size: 28px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+}
+.SCHEDULEe .ink a {
+  width: 100%;
+  height: 50px;
+  text-decoration: none;
+}
+.SCHEDULEe .ink a h3 {
+  width: 100px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  background-color: white;
+  font-size: 12px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+}
+.SCHEDULEe .ink a h3:hover {
+  background-color: grey;
+  transition: 1s ease;
+}
+.SCHEDULEe .allPlace {
+  width: 100%;
+  height: auto;
+  padding: 0px 200px 0px 200px;
+}
+.SCHEDULEe .allPlace .list {
+  width: 350px;
+  height: 70px;
+  display: flex;
+  justify-content: space-around;
+}
+.SCHEDULEe .allPlace .list h4 {
+  width: 100px;
+  height: 30px;
+  font-size: 12px;
+  font-family: "Roboto", sans-serif;
+  border-radius: 8px;
+  background-color: rgb(5, 5, 69);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.SCHEDULEe .allPlace .list h4:hover {
+  color: red;
+  transition: 1s ease;
+}
+.SCHEDULEe .wed h4 {
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+}
+.SCHEDULEe .wed .line {
+  width: 100%;
+  height: 1px;
+  background-color: white;
+  display: block;
+}
+.SCHEDULEe .forDivs {
+  width: 100%;
+  height: auto;
+  padding-top: 20px;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+.SCHEDULEe .forDivs .filters {
+  width: 400px;
+  height: 70px;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  padding-top: 20px;
+}
+.SCHEDULEe .forDivs .filters h6 {
+  font-size: 12px;
+}
+.SCHEDULEe .forDivs .filters h6 p {
+  font-size: 10px;
+  color: rgb(151, 147, 147);
+}
+.SCHEDULEe .forDivs .filters h5 {
+  font-size: 13px;
+}
+.SCHEDULEe .forDivs .filters h5 p {
+  font-size: 8px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 100;
+}
+.SCHEDULEe .forDivs .line {
+  width: 100%;
+  height: 0.5px;
+  background-color: white;
+  display: inline-block;
+}
+.SCHEDULEe .foo {
+  background-color: black;
+}
+
+.creat {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 10px;
+  place-items: center;
+  padding-top: 65px;
+  background-color: rgb(0, 0, 0);
+}
+.creat .forpaswword {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.creat .forpaswword .check {
+  width: 100%;
+  max-width: 320px;
+  margin-top: 30px;
+  padding: 25px;
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 10px;
+  box-shadow: 12px 0px 12px 0px;
+  border-radius: 8px;
+  background-color: rgb(153, 151, 151);
+}
+.creat .forpaswword .check .password {
+  width: 90%;
+  outline: none;
+  border: 0;
+  border-bottom: 1px solid red;
+}
+.creat .forpaswword .check #errmsg {
+  color: rgb(218, 22, 22);
+  position: absolute;
+  margin-top: 170px;
+  font-size: 13px;
+  font-family: "Oswald", sans-serif;
+  display: none;
+}
+.creat .forpaswword .check #eyechange {
+  cursor: pointer;
+}
+.creat .forpaswword .check .form-label #emailLable {
+  color: rgb(175, 51, 51);
+}
+.creat .forpaswword .check .list-group-flush .list-group-item {
+  color: rgb(122, 122, 122);
+  font-family: "Ubuntu", sans-serif;
+  font-size: 13px;
+}
+.creat .input-group {
+  width: 100%;
+  max-width: 320px;
+  padding: 25px;
+  row-gap: 10px;
+  box-shadow: 12px 0px 12px 0px;
+  border-radius: 8px;
+  background-color: white;
+}
+.creat .input-group #emailInput {
+  display: block;
+  width: 90%;
+  transition: bottom 0.3s;
+  border: 0;
+  border-bottom: 1px solid red;
+  background: transparent;
+  outline: none;
+  font-size: 15px;
+  padding: 5px 2px;
+  position: relative;
+  z-index: 10;
+  margin-top: 30px;
+  background-color: white;
+  padding-left: 10px;
+}
+.creat .input-group #emailMsg {
+  position: absolute;
+  top: 100%;
+  left: 2px;
+  font-size: 16px;
+  font-weight: 400;
+  color: red;
+  display: none;
+}
+.creat .subm {
+  width: 100%;
+  height: auto;
+  padding-top: 40px;
+}
+.creat .subm a {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+.creat .subm a h4 {
+  width: 100px;
+  height: 30px;
+  color: black;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.creat .subm a h4:hover {
+  background-color: grey;
+  transition: 1s ease;
+}
+
+/*# sourceMappingURL=style.css.map */
